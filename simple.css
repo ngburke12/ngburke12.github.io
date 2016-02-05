@@ -1,6 +1,7 @@
 
     .beatles {
-        background: #FCC;
+        background: #80ff00;
+        COLOR: rgb(255, 51, 204)
     }
 
     .stones {
@@ -9,6 +10,7 @@
 
     .who {
         background: #CCF;
+        BODY { COLOR: #800080
     }
 
     .band {
