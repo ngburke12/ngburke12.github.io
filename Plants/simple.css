@@ -1,0 +1,30 @@
+
+body {
+    background-color: #acb894;
+
+
+}
+h1{
+    font-family: "verdana";
+}
+
+p {
+    font-family: "verdana";
+}
+
+    .image-holder {
+    display:inline-block;
+    position: relative;
+}
+.image-holder:after {
+    content:'';
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 10%;
+    height: 50%;
+    display: block;
+    position: center;
+    background: blue;
+    opacity: 0.5;
+}
